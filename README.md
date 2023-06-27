@@ -28,7 +28,7 @@ The Drums Kit project is built using the following technologies:
 
 To use the Drums Kit locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/drums-kit.git`
+1. Clone the repository: `git clone https://github.com/Ajmal112/drums-kit.git`
 2. Open `index.html` in your web browser.
 3. Click on the drum buttons or press the corresponding keys on your keyboard to play the drum sounds.
 
