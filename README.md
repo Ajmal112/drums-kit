@@ -4,7 +4,7 @@ The Drums Kit is a web application that simulates a virtual drums set. It allows
 
 ## Live Demo
 
-You can try out the Drums Kit live by visiting the [demo page](https://your-demo-page-url.com).
+You can try out the Drums Kit live by visiting the [demo page](https://ajmal112.github.io/drums-kit/).
 
 ## Motivation
 
